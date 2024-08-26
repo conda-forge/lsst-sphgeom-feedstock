@@ -320,4 +320,6 @@ Feedstock Maintainers
 * [@camposandro](https://github.com/camposandro/)
 * [@erykoff](https://github.com/erykoff/)
 * [@timj](https://github.com/timj/)
+* [@roceb](https://github.com/roceb/)
+* [@mwittgen](https://github.com/mwittgen/)
 
