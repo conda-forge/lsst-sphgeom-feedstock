@@ -319,7 +319,7 @@ Feedstock Maintainers
 * [@TallJimbo](https://github.com/TallJimbo/)
 * [@camposandro](https://github.com/camposandro/)
 * [@erykoff](https://github.com/erykoff/)
-* [@timj](https://github.com/timj/)
-* [@roceb](https://github.com/roceb/)
 * [@mwittgen](https://github.com/mwittgen/)
+* [@roceb](https://github.com/roceb/)
+* [@timj](https://github.com/timj/)
 
