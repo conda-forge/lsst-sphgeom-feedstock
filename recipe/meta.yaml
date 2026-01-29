@@ -1,5 +1,5 @@
 {% set name = "lsst-sphgeom" %}
-{% set version = "30.0.0" %}
+{% set version = "30.2026.500" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 171cad09b6e2aa50db8ac94dcd37ed2cf1f00b9d7f0239d545976ace45e39d91
+  sha256: 27ee6f6a1403ac6cec4a2f283c04db652479b12f3ed9cdbc69b5c443c778d2cf
 
 build:
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
